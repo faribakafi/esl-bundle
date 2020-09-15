@@ -14,6 +14,7 @@ Changed
 - Libpsml to v1.1.10.
 - LibGridXC to v0.9.6.
 - NTPoly to v2.5.0.
+- ELSI to v2.6.2.
 
 [0.5.0-1] - 2020-05-08
 ======================
